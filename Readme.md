@@ -22,8 +22,8 @@ This project is a compact, handheld wireless trackball device ("air mouse") buil
 販売は未定です。
   
 ## Article
-- https://note.com/amgskobo/n/n39ae0e2d3ca7
-- https://note.com/amgskobo/n/naa46139e9779
+- 超小型エアマウスを作ってみた (AZ1UBALL編)— ZMKとの出会いと自作挑戦記（https://note.com/amgskobo/n/n39ae0e2d3ca7）
+- ZMKでバッテリー残量を実際のバッテリー電圧に合わせる（https://note.com/amgskobo/n/naa46139e9779）
 ## Requirements
 
 - [firmware (TBA) ](https://github.com/amgskobo/config-fuwat-mouse)
